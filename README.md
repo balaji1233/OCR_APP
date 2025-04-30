@@ -32,8 +32,7 @@ Experience the power of **Mistral OCR** in action! Upload PDFs or images and ext
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/AIAnytime/Mistral-OCR-App.git
-   cd Mistral-OCR-App
+   git clone https://github.com/balaji1233/OCR_APP.git
    ```
 
 2. **Create and Activate a Virtual Environment (Optional but Recommended):**
